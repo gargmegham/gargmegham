@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Megham garg. </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=Megham-garg" alt="Megham" /> </p>
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=gargmegham" alt="Megham" /> </p>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently working as SDE-2 in TranZact.
