@@ -4,20 +4,19 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently working as SDE-2 in TranZact.
-- 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Next i want to learn, and work on VR games.
-- ✍️ &nbsp; Love participating in data science competitions, and coding competitions.
-- ✨ &nbsp; Out of work, find me learning new skills, and building businesses.
+- 🤔 &nbsp; Exploring newer technologies and developing software solutions that are maintainable and scalable while following standard practices.
+- 🌱 &nbsp; Next i want to learn, and work on VR Games.
+- ✨ &nbsp; Out of work, find me learning new skills.
 - ☕ &nbsp; I believe, a walk outside can be the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Javascript | C++
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Django | React.js
-- 🐍 &nbsp; Scikit-learn | NLTK | Keras | Spacy | Matplotlib
-- ☁  &nbsp; Netlify | Python Anywhere | GCP
-- 🔧 &nbsp; Github | Visual Studio Code | Git
-- 🔎 &nbsp; MongoDB | PostgreSQL
+- 💻 &nbsp; Python | Javascript | C++ | C | Java
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Django | React.js | DRF | Vue.js | Vuetify | Vuex
+- 🐍 &nbsp; Scikit-learn | NLTK | Keras | Spacy | Matplotlib | Pandas | Tensorflow
+- ☁  &nbsp; Netlify | Python Anywhere | GCP | AWS
+- 🔧 &nbsp; Apache Airflow | Git
+- 🔎 &nbsp; MongoDB | PostgreSQL | MySQL | CosmosDB
 
 </br>
 <h3> 🤝🏻 Connect with Me </h3>
@@ -26,5 +25,4 @@
 &nbsp; <a href="https://www.instagram.com/meghamgarg/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/megham-garg/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:gargmegham3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-
 </p>
