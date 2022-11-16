@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently working as SDE-2 in TranZact.
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions that are maintainable and scalable while following standard practices.
-- 🌱 &nbsp; Next i want to learn, and work on VR Games.
+- 🌱 &nbsp; Next i want to learn, and work on AR tools.
 - ✨ &nbsp; Out of work, find me learning new skills.
 - ☕ &nbsp; I believe, a walk outside can be the ultimate solution for any stress.
 
