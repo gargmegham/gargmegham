@@ -3,18 +3,16 @@
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=gargmegham" alt="Megham" /> </p>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working as SDE-2 in TranZact.
-- 🤔 &nbsp; Exploring newer technologies and developing software solutions that are maintainable and scalable while following standard practices.
-- 🌱 &nbsp; Next i want to learn, and work on AR tools.
-- ✨ &nbsp; Out of work, find me learning new skills.
+- 🔭 &nbsp; I'm a problem solver by profession, and some of his favourite topics to look into are product development, finance, sports, entrepreneurship and skill hunting.
+- ✨ &nbsp; I also provide freelance software development services for the living where me and my small team helps small sized startups who are looking to launch the MVP within an year.
 - ☕ &nbsp; I believe, a walk outside can be the ultimate solution for any stress.
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech i've worked with</h3>
 
 - 💻 &nbsp; Python | Javascript | C++ | C | Java
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Django | React.js | DRF | Vue.js | Vuetify | Vuex
 - 🐍 &nbsp; Scikit-learn | NLTK | Keras | Spacy | Matplotlib | Pandas | Tensorflow
-- ☁  &nbsp; Netlify | Python Anywhere | GCP | AWS
+- ☁  &nbsp; Netlify | Python Anywhere | GCP | AWS | Azure
 - 🔧 &nbsp; Apache Airflow | Git
 - 🔎 &nbsp; MongoDB | PostgreSQL | MySQL | CosmosDB
 
